@@ -143,9 +143,12 @@ Decision Tree Predictor:
 ![result decision tree predictor](https://github.com/tirasyaz/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93869166/54c80180-62a9-4351-a643-b55df7a77dbc)
 
 
-## Conclusion
+## Conclusion  
 
-## References
+In conclusion, this project has provided significant new information about the relationship between child crime rates and gender, age. We saw an increase in crime rates across all age groups, with gender-specific variances. These findings show the requirement for preventive measures to cater the particular needs of various age and gender groups. Our analysis offers a basis for well-informed decision-making and focused initiatives to lower children's engagement in criminal activity, ultimately resulting in safer communities for everybody.
+
+## References  
+
 Baugh, M. (2023, August 31). MyLawQuestions. Retrieved from https://www.mylawquestions.com/what-is-juvenile-crime.htm  
 Child Act 2001 in line with the Convention on the Rights of the Child ratified by Malaysia.  
 Section 82, Penal Code
