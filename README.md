@@ -47,22 +47,56 @@ The primary goal of data diagnostic is to prepare the data for further examinati
 
 ### 3. Predictive
 Predictive modeling  is a structured process used in data science and statistical analysis to predict or anticipate future outcomes or trends based on past data and patterns. The typical steps in prediction methods are described in the following overview:
-•	Problem Formulation  
+a. Problem Formulation  
 
-•	Data Collection and Preparation  
+b. Data Collection and Preparation  
 
-•	Data Splitting
-•	Feature Selection/Engineering
-•	Model Selection
-•	Model Training
-•	Model Evaluation
-•	Model Tuning
-•	Cross-Validation
-•	Deployment
-•	Monitoring and Maintenance
-•	Documentation and Reporting
+c. Data Splitting  
+
+d. Feature Selection/Engineering  
+
+e. Model Selection  
+
+f. Model Training  
+
+g. Model Evaluation  
+
+h. Model Tuning  
+
+i. Cross-Validation  
+
+j. Deployment  
+
+k. Monitoring and Maintenance  
+
+l. Documentation and Reporting  
+
 
 ### 4. Prescriptive
+Prescriptive technique, commonly referred to as prescriptive analytics, is a subset of data science and advanced analytics that focuses on offering specific problems or decision-making scenarios actionable advice and answers. Prescriptive analytics goes beyond predictive analytics, which predicts future results, by offering recommendations on the best course of action to optimise outcomes, address issues, or accomplish particular goals. main elements of prescriptive methodology is:
+a. Problem Identification and Formulation  
+
+b. Data Collection and Integration  
+
+c. Descriptive Analytics  
+
+d. Predictive Analytics  
+
+e. Optimization and Simulation  
+
+f. Prescriptive Model Development  
+
+g. Scenario Analysis  
+
+h. Recommendation Generation  
+
+i. Decision Support  
+
+j. Implementation and Monitoring  
+
+k. Feedback Loop  
+
+
 
 ## Results
 
