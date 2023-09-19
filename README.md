@@ -11,11 +11,34 @@ Juvenile crime occurs when an individual under the age of majority acts against 
 Data description is the process of describing and giving an overview of a dataset’s main attributes and characterisitics. It is an important phase in the workflow for data analysis and data science because it enables researchers, analysts, and decision-makers to understand the data they are using. The following characteristics are generally included of data description:
 
 a. data size –describes the volume of data usually measured in rows and column. For this dataset, there are 9 rows of types of crime, 8 rows of age range and gender.  
+
 b. data types-identifies the data type as numerical, categorical, to understand the nature of data.  
+
 c. summary statistics- basic statistical measures like mean,median,minimum,maximum values for numerical variables.  
+
 d. data distributions  
-e. missing values  
-f. data visualization  
+
+e. missing values   
+
+f. data visualization   
+
+
+### 2. Data Diagnostic
+Data diagnostic is a stage in the data analysis process that involves careful examination and evaluation of a dataset to identify trends, anomalies, correlations, and potential problems. A better understanding  of the data is achieved at this phase, which extends the original data description and makes use of advanced techniques. Data diagnostic's main components are as follows:
+a. Pattern Recognition  
+
+b. Data Relationships  
+
+c. Outlier Detection
+d. Data Validation
+e. Hypothesis Testing
+f. Data Transformation
+g. Visualization:
+h. Domain Knowledge
+i. Documentation
+
+### 3. Predictive
+### 4. Prescriptive
 
 
 
