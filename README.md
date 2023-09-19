@@ -121,8 +121,9 @@ k. Feedback Loop
 
 
 
-## Results  
+## Results   
 
+Dataset:
 ![result dataset](https://github.com/tirasyaz/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93869166/03db751e-4f8c-4f64-9c3f-f4e98e2f95b0)  
 
 Data Visualization:
@@ -134,7 +135,8 @@ Data Explorer:
 Data Statistics:  
 ![result statistics](https://github.com/tirasyaz/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93869166/4500e7f5-a6fa-4d3c-9bcf-f2837efb9c73)  
 
-Decision Tree:
+Decision Tree:  
+
 ![result decision tree](https://github.com/tirasyaz/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93869166/725ecbd1-6f9e-4c0f-9ae6-ac4f613a48c4)  
 
 Decision Tree Predictor:  
