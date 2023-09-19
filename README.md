@@ -12,15 +12,19 @@ Data description is the process of describing and giving an overview of a datase
 
 a. data size –describes the volume of data usually measured in rows and column. For this dataset, there are 9 rows of types of crime, 8 rows of age range and gender.  
 
-b. data types-identifies the data type as numerical, categorical, to understand the nature of data.  
+b. data types-identifies the data type as numerical, categorical, to understand the nature of data.    
+
+![data description](https://github.com/tirasyaz/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93869166/f6003d66-d7ba-483c-8503-67e1382dd3d3)
 
 c. summary statistics- basic statistical measures like mean,median,minimum,maximum values for numerical variables.  
+d. missing values   
 
-d. data distributions  
+![data description 1](https://github.com/tirasyaz/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93869166/50e07b4b-04be-4b16-9bdc-ee38006f1f4d)   
 
-e. missing values   
+e. data distributions 
 
 f. data visualization   
+![data visualization](https://github.com/tirasyaz/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93869166/cc7e1d87-bfb6-419f-86d1-feb042d8ee94)
 
 
 ### 2. Data Diagnostic
@@ -42,6 +46,8 @@ g. Visualization
 h. Domain Knowledge  
 
 i. Documentation  
+
+
 
 The primary goal of data diagnostic is to prepare the data for further examinations, such as predictive modelling, and to ensure the data is precise and relevant for addressing certain research concerns or corporate objectives. It improves in the creation of data-driven plans and helps analysts find information that can direct strategy formulation, problem-solving, and decision-making.
 
