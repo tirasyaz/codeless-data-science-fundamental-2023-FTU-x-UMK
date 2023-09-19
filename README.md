@@ -29,16 +29,48 @@ a. Pattern Recognition
 
 b. Data Relationships  
 
-c. Outlier Detection
-d. Data Validation
-e. Hypothesis Testing
-f. Data Transformation
-g. Visualization:
-h. Domain Knowledge
-i. Documentation
+c. Outlier Detection  
+
+d. Data Validation  
+
+e. Hypothesis Testing  
+
+f. Data Transformation  
+
+g. Visualization  
+
+h. Domain Knowledge  
+
+i. Documentation  
+
+The primary goal of data diagnostic is to prepare the data for further examinations, such as predictive modelling, and to ensure the data is precise and relevant for addressing certain research concerns or corporate objectives. It improves in the creation of data-driven plans and helps analysts find information that can direct strategy formulation, problem-solving, and decision-making.
 
 ### 3. Predictive
+Predictive modeling  is a structured process used in data science and statistical analysis to predict or anticipate future outcomes or trends based on past data and patterns. The typical steps in prediction methods are described in the following overview:
+•	Problem Formulation  
+
+•	Data Collection and Preparation  
+
+•	Data Splitting
+•	Feature Selection/Engineering
+•	Model Selection
+•	Model Training
+•	Model Evaluation
+•	Model Tuning
+•	Cross-Validation
+•	Deployment
+•	Monitoring and Maintenance
+•	Documentation and Reporting
+
 ### 4. Prescriptive
 
+## Results
+
+## Conclusion
+
+## References
+Baugh, M. (2023, August 31). MyLawQuestions. Retrieved from https://www.mylawquestions.com/what-is-juvenile-crime.htm  
+Child Act 2001 in line with the Convention on the Rights of the Child ratified by Malaysia.  
+Section 82, Penal Code
 
 
