@@ -47,6 +47,7 @@ h. Domain Knowledge
 
 i. Documentation  
 
+![data diagnostic](https://github.com/tirasyaz/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93869166/f3a63b53-da1f-45ba-8d9f-6e7d69629d8b)
 
 
 The primary goal of data diagnostic is to prepare the data for further examinations, such as predictive modelling, and to ensure the data is precise and relevant for addressing certain research concerns or corporate objectives. It improves in the creation of data-driven plans and helps analysts find information that can direct strategy formulation, problem-solving, and decision-making.
@@ -75,7 +76,9 @@ j. Deployment
 
 k. Monitoring and Maintenance  
 
-l. Documentation and Reporting  
+l. Documentation and Reporting 
+
+![predictive](https://github.com/tirasyaz/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93869166/43554f40-411a-4176-8c2e-bf8d20e0f12b)
 
 
 ### 4. Prescriptive
