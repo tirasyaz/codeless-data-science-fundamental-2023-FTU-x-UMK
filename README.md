@@ -14,17 +14,26 @@ a. data size –describes the volume of data usually measured in rows and column
 
 b. data types-identifies the data type as numerical, categorical, to understand the nature of data.    
 
-![data description](https://github.com/tirasyaz/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93869166/f6003d66-d7ba-483c-8503-67e1382dd3d3)
+![data description](https://github.com/tirasyaz/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93869166/f6003d66-d7ba-483c-8503-67e1382dd3d3)  
+
+CSV reader Node used to read csv files and import into KNIMe workflow. 
+
+Data Explorer Node used to interactively explore and visualize the dataset.  
 
 c. summary statistics- basic statistical measures like mean,median,minimum,maximum values for numerical variables.  
 d. missing values   
 
 ![data description 1](https://github.com/tirasyaz/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93869166/50e07b4b-04be-4b16-9bdc-ee38006f1f4d)   
+Missing Value Column Filter Node used to remove any column with missing value such as null.  
+
+Statistics Node used to compute various statistical measure in dataset.
+Provide an overview before data preprocessing and modeling steps.  
 
 e. data distributions 
 
 f. data visualization   
-![data visualization](https://github.com/tirasyaz/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93869166/cc7e1d87-bfb6-419f-86d1-feb042d8ee94)
+![data visualization](https://github.com/tirasyaz/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93869166/cc7e1d87-bfb6-419f-86d1-feb042d8ee94)  
+Data Visualization Node used to helps to visualize and explore data in graphical format such as scatter plot, pie chart, histogram and more.
 
 
 ### 2. Data Diagnostic
@@ -47,7 +56,8 @@ h. Domain Knowledge
 
 i. Documentation  
 
-![data diagnostic](https://github.com/tirasyaz/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93869166/f3a63b53-da1f-45ba-8d9f-6e7d69629d8b)
+![data diagnostic](https://github.com/tirasyaz/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93869166/f3a63b53-da1f-45ba-8d9f-6e7d69629d8b)  
+Column Filter Node used to filter column from dataset.
 
 
 The primary goal of data diagnostic is to prepare the data for further examinations, such as predictive modelling, and to ensure the data is precise and relevant for addressing certain research concerns or corporate objectives. It improves in the creation of data-driven plans and helps analysts find information that can direct strategy formulation, problem-solving, and decision-making.
@@ -78,7 +88,11 @@ k. Monitoring and Maintenance
 
 l. Documentation and Reporting 
 
-![predictive](https://github.com/tirasyaz/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93869166/43554f40-411a-4176-8c2e-bf8d20e0f12b)
+![predictive](https://github.com/tirasyaz/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/93869166/43554f40-411a-4176-8c2e-bf8d20e0f12b)   
+Partitioning Node used to split dataset into training and testing sets.  
+Decision Tree Learner Node used to training decision tree models.  
+
+Decision Tree Predictor Node apply trained decision tree model to new data to make prediction.
 
 
 ### 4. Prescriptive
